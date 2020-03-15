@@ -10,7 +10,7 @@ Please see [Writeup](https://github.com/haciogluf/Udacity_CarND-LaneLines-P2/blo
 
 ### **Content of the Project Folder**
 
-**/examples:** Includes images for the report preparation (see: [Writeup.md](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Writeup.md))
+**/examples:** Includes images for the report preparation (see: [Writeup.md](https://github.com/haciogluf/Udacity_CarND-LaneLines-P2/blob/master/Writeup.md))
 
 **/test_images:** Includes images for testing
 
@@ -20,4 +20,4 @@ Please see [Writeup](https://github.com/haciogluf/Udacity_CarND-LaneLines-P2/blo
 
 **Project2_Delivery.ipynb:** This file includes the pipeline for lane line detection.
 
-**Project2_Delivery_Report.html:** HTML report of [*Project2_Delivery.ipynb*](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Project1_Delivery.ipynb).
+**Project2_Delivery_Report.html:** HTML report of [*Project2_Delivery.ipynb*](https://github.com/haciogluf/Udacity_CarND-LaneLines-P2/blob/master/Project2_Delivery.ipynb).
