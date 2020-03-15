@@ -156,7 +156,7 @@ Sanity check is conducted by the following 3 steps:
 
 *Example Video:*
 
-See: [*Project2_Delivery_Report*](https://github.com/haciogluf/Udacity_CarND-LaneLines-P2/blob/master/Project2_Delivery_Report.html)
+See: [*Project2_Delivery*](https://github.com/haciogluf/Udacity_CarND-LaneLines-P2/blob/master/Project2_Delivery_Report.ipynb)
 
 ### 3. Possible Shortcomings & Improvement Points
 
