@@ -156,7 +156,7 @@ Sanity check is conducted by the following 3 steps:
 
 *Example Video:*
 
-<video width="1280" height="720" controls><source src="./project_video_output.mp4" type="video/mp4"></video>
+See: [*Project2_Delivery_Report*](https://github.com/haciogluf/Udacity_CarND-LaneLines-P2/blob/master/Project2_Delivery_Report.html)
 
 ### 3. Possible Shortcomings & Improvement Points
 
